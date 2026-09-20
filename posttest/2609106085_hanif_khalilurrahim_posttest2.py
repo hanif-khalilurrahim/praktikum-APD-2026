@@ -19,5 +19,6 @@ mata_uang = total_biaya / 23.860
 print ("TOTAL BIAYA : ", (total_biaya))
 print ("RATA RATA : ", int(rata_rata), "| versi FLOAT : ", (rata_rata))
 print ("BOLEAN : ", (bolean))
+# bismillah benar untuk poin + nya
 print ('slice index NEGAtif', (harga_komponen [-6 : -2]))
 print ("konversi mata uang dari total biaya ke GBP : ", int(mata_uang), "| versi FLOAT : ", (mata_uang))
