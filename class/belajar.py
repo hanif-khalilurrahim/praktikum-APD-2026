@@ -15,5 +15,5 @@ print(type(angka))
 print = int(angka)
 # print(type(angka))
 
-nama = input("siapa nama antum")
-print(nama)
+nama1= input("siapa nama antum")
+print = (nama1) 
