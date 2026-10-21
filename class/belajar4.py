@@ -7,4 +7,3 @@ sisa = formula1.pop(0)
 print(sisa)
 print(formula1)
 
-formula1 = tuple(karuga)
